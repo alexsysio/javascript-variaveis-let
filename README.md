@@ -6,7 +6,7 @@
 
 &nbsp;
 
-### O que o JavaScript pode fazer? | JavaScript JavaScript Variáveis Declarando com let
+### O que o JavaScript pode fazer? | JavaScript Variáveis Declarando com let
 
 <a href="https://github.com/user-attachments/assets/75c5beb5-55b2-430b-894d-d257640ca1ce">
   <img width="100%" alt="javascript-variaveis" src="https://github.com/user-attachments/assets/75c5beb5-55b2-430b-894d-d257640ca1ce"/>
