@@ -1,21 +1,3 @@
-### HTML JavaScript | JavaScript Variáveis Declarando com let
-
-<a href="https://github.com/user-attachments/assets/4c89796b-5de3-45a3-abeb-c30d80dd2a4c" >
-  <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/4c89796b-5de3-45a3-abeb-c30d80dd2a4c"/>
-</a>
-
-&nbsp;
-
-### O que o JavaScript pode fazer? | JavaScript Variáveis Declarando com let
-
-<a href="https://github.com/user-attachments/assets/75c5beb5-55b2-430b-894d-d257640ca1ce">
-  <img width="100%" alt="javascript-variaveis" src="https://github.com/user-attachments/assets/75c5beb5-55b2-430b-894d-d257640ca1ce"/>
-</a>
-
-&nbsp;
-
-### Variáveis JavaScript
-### variáveis = contêineres de dados
 ### Variáveis JavaScript são contêineres para dados.
 
 &nbsp;
@@ -66,6 +48,20 @@
 
 ### Números não são permitidos como primeiro caractere nos nomes.
 ### Dessa forma, o JavaScript pode facilmente distinguir identificadores de números.
+
+&nbsp;
+
+<a href="https://github.com/user-attachments/assets/250f1cd9-7931-4ce3-9f84-9c9c79de877d">
+  <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/250f1cd9-7931-4ce3-9f84-9c9c79de877d"/>
+</a>
+
+&nbsp;
+
+### Resultado
+
+<a href="https://github.com/user-attachments/assets/4b98671e-fe7d-4675-a0e9-66f5a8e662ec">
+  <img width="100%" alt="let" src="https://github.com/user-attachments/assets/4b98671e-fe7d-4675-a0e9-66f5a8e662ec"/>
+</a>
 
 &nbsp;
 
